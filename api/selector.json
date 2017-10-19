@@ -1,7 +1,11 @@
 {
     "data": [
+        "div[id^='_']",
+        "div[class^='bl-add-top']",
+        "div[class^='imageplus-append']",
         "div[class^='bl-add-top']",
         "div[id^='pl-float-bar']",
+        "div[id^='pl-ad']",
         "div[id^='BAIDU_SSP']",
         "div[id^='BAIDU_DUP']",
         "div[id^='BAIDU_DSPUI']",
