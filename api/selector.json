@@ -15,6 +15,7 @@
         "div[id^='IZADX_']",
         "div[id='ShowDIV_UNION']",
         "ins[data-ad-pdps]",
+        ".bl-add-top",
         "#jdAdBox",
         "#turn-ad",
         "div[id^='TurnAD']",
