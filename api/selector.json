@@ -1,7 +1,6 @@
 {
     "data": [
         "div[class^='bl-add-top']",
-        "div[id^='pl-adtop-bar']",
         "div[id^='BAIDU_SSP']",
         "div[id^='BAIDU_DUP']",
         "div[id^='BAIDU_DSPUI']",
