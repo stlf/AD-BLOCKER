@@ -1,5 +1,6 @@
 {
     "data": [
+        "div[class='appTips']",
         "div[id^='_']",
         "div[class^='bl-add-top']",
         "div[class^='imageplus-append']",
